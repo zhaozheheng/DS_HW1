@@ -1,5 +1,3 @@
-package zzh;
-
 import java.util.Scanner;
 import javax.print.DocFlavor.INPUT_STREAM;
 
